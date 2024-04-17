@@ -1,0 +1,7 @@
+state ek data hota hai act is data ka khyaal rakhta hai ,jab bhi ye data change hota hai react page ko update karta hai 
+
+state koi bhi data hoo sakta hai ,jaise ki score = 0
+useState(0)
+
+maan lete hai aapke game mein scrore by default  0 se shuru hota hai and future mein wo score badgega by 10 aur aapko page pe show bhi karna hai jab score badhe ,to use case mein aapka score variable ek state mein rakhna jaruru hai, kyuki react sirf use chage karta hai jo state mein hota hai
+

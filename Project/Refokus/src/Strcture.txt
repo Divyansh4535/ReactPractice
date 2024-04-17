@@ -1,0 +1,20 @@
+APP 
+___NAVBAR
+______Button components
+___WORK
+___STRIPES
+______STRIPE
+___PRODUCTS
+______PRODUCT
+___MARQUEE
+___BLOCKS
+______BLOCK
+___FOOTER
+
+animation part
+ install locomotive beta version
+ import locomotive
+ install framer-motion
+ import motion  on work.jsx
+
+ 

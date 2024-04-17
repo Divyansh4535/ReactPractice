@@ -1,0 +1,5 @@
+[1st step] npm i react-router-dom
+[2nd step] main.jsx ->  
+<BrowserRouter> 
+<App/>
+</BrowserRouter>
